@@ -1,6 +1,5 @@
-# Breast Cancer Detection - Classification - Pycaret
+# Breast Cancer Detection - Classification 
 
-**Complete Video Tutorial:** https://youtu.be/janK8osSKPs
 
 # Dataset Information
 
@@ -48,9 +47,7 @@ Class distribution: 357 benign, 212 malignant
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- Extra Tress
 - XGBoost
-- LightGBM
 - CatBoost
   
 **Best Model AUC:** 99.47
